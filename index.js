@@ -21,3 +21,4 @@ function Constructor (asal, sekolah){
 }
 
 let dandy = new Constructor("klaten", "esgul")
+let krisnanda = new Constructor("tng", "MM")
