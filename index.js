@@ -15,3 +15,9 @@ function Declare (nama, energi){
 
 let boni = Declare("boni", 20)
 
+function Constructor (asal, sekolah){
+    this.asal = asal
+    this.sekolah = sekolah
+}
+
+let dandy = new Constructor("klaten", "esgul")
